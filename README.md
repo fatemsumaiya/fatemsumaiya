@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 📚 passionate about creating new things, whether that means a new painting, a new film roll or a **new web app**
 - 🌱 currently learning Javascript and React with CodePath
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sumaiyafatema/) 
 
@@ -28,10 +27,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=fatemsumaiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fatemsumaiya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemsumaiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+<h2>🌟 Favorite Quote</h2>
+<blockquote style="font-style: italic; color: #6A5ACD; border-left: 4px solid #6A5ACD; padding-left: 10px;">
+  "The fruit is sweeter the more you wait." - <strong>Sumaiya Fatema</strong>
+</blockquote>
 ---
 [![](https://visitcount.itsvg.in/api?id=fatemsumaiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
