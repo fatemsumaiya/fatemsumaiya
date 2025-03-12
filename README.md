@@ -32,6 +32,5 @@ Here are some ideas to get you started:
   "The fruit is sweeter the more you wait." - <strong>Sumaiya Fatema</strong>
 </blockquote>
 ---
-[![](https://visitcount.itsvg.in/api?id=fatemsumaiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
