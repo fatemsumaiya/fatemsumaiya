@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 😄 first-gen student studying Psychology and CS at Lehman College
-- 📚 passionate about serving others and creating new things, whether that means a new painting, a new film roll, **new web app**, you name it!
 - 🌱 currently learning Javascript and React with CodePath
 
 ## 🌐 Socials:
